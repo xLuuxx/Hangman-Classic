@@ -70,8 +70,6 @@ Goland, Go.
 Elisabeth  
 Luu
 
---- 
-[TRELLO](https://trello.com/b/kz66rQZh/projet-hero)
 ---
 **THANKS**  
 Thank you for reading our readme.  
